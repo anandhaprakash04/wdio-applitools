@@ -1,4 +1,3 @@
-# NEST - NEON Automation - [Lets get it DONE!]
 
 ### Dependencies
 - Must have node and npm installed. Visit https://nodejs.org/ for installation.
