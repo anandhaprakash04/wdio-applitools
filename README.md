@@ -1,6 +1,11 @@
-
 ### Dependencies
 - Must have node and npm installed. Visit https://nodejs.org/ for installation.
+- May or May not have typescript installed globally. ( npm install -g typescript)
+
+
+### Clone the repository to your local
+
+https://github.com/anandhaprakash-gartner/wdio-applitools.git
 
 ### Add your browserstack and applitools keys in wdio.config.ts file before running
 
