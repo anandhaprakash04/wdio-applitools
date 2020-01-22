@@ -17,14 +17,13 @@ const applitoolsKey= '';
 ```
 
 ### Setup
-For reference on webdriverio, check out [Webdriverio Tutorial](http://webdriver.io/). 
 
 1. Install packages 
 ```
 npm install
 ```
 
-#### Parameters/Arguments to be passed to the test; All arguments are optional except spec/suite
+#### Optional Parameters/Arguments to be passed to the test;  
 
 `--browserName (default: chrome)`
  
