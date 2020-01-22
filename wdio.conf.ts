@@ -4,9 +4,9 @@ const cliarguments = require('yargs')
     .argv;
 const browserName = cliarguments.browserName;
 
-const bstackUserName = 'anand510';
-const bstackPassword =  'QHqzxidWEyF5KRkPSepT';
-const applitoolsKey= 'QOvCOZ9dbOSV0eRBnxwcJAmCJRzCQoj47hy102w1zJz5I110';
+const bstackUserName = '';
+const bstackPassword =  '';
+const applitoolsKey= '';
 
 exports.config = {
     user: bstackUserName,
